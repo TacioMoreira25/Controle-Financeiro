@@ -6,7 +6,7 @@ using System.Security.Cryptography.X509Certificates;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Ignorar erros de certificado SSL globalmente (atenção aos riscos de segurança em produção)
+// Ignorar erros de certificado SSL globalmente
 System.Net.ServicePointManager.ServerCertificateValidationCallback +=
     (sender, cert, chain, sslPolicyErrors) => true;
 
