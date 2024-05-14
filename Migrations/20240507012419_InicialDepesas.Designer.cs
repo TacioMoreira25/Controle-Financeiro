@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace Finance_control.Migrations
+namespace FinanceControl.Migrations
 {
     [DbContext(typeof(AppDbContext))]
     [Migration("20240507012419_InicialDepesas")]

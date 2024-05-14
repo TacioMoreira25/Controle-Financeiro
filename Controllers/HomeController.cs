@@ -1,8 +1,8 @@
-using Financecontrol.Models;
+using FinanceControl.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace Financecontrol.Controllers
+namespace FinanceControl.Controllers
 {
     public class HomeController : Controller
     {

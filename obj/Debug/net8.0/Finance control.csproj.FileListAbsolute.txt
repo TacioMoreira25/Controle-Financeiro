@@ -134,3 +134,4 @@ C:\Users\morei\OneDrive\Documentos\Dev\C#\Finance control\obj\Debug\net8.0\refin
 C:\Users\morei\OneDrive\Documentos\Dev\C#\Finance control\obj\Debug\net8.0\Finance control.pdb
 C:\Users\morei\OneDrive\Documentos\Dev\C#\Finance control\obj\Debug\net8.0\Finance control.genruntimeconfig.cache
 C:\Users\morei\OneDrive\Documentos\Dev\C#\Finance control\obj\Debug\net8.0\ref\Finance control.dll
+C:\Users\morei\OneDrive\Documentos\Dev\C#\Finance control\obj\Debug\net8.0\Finance control.sourcelink.json

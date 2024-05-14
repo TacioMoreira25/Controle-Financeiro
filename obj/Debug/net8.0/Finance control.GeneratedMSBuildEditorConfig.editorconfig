@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\morei\OneDrive\Documentos\Dev\C#\Finance control
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/morei/OneDrive/Documentos/Dev/C\#/Finance control/Views/Despesa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzcGVzYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/morei/OneDrive/Documentos/Dev/C\#/Finance control/Views/Despesa/_despesaForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzcGVzYVxfZGVzcGVzYUZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/morei/OneDrive/Documentos/Dev/C\#/Finance control/Views/Despesa/_despesaReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzcGVzYVxfZGVzcGVzYVJlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/morei/OneDrive/Documentos/Dev/C\#/Finance control/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

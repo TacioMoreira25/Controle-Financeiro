@@ -1,4 +1,4 @@
-namespace Financecontrol.Models
+namespace FinanceControl.Models
 {
     public class ErrorViewModel
     {
