@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Controllers",
     "\\Views",
-    "\\Views\\Despesa"
+    "\\Views\\Shared"
   ],
   "SelectedNode": "\\Finance control.sln",
   "PreviewInSolutionExplorer": false

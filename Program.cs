@@ -1,5 +1,5 @@
 using FinanceControl.Models;
-using FinanceControl.DAL; // Adicione o namespace onde IFinancasDAL e FinancasDAL estão definidos
+using FinanceControl.DAL; 
 using Microsoft.EntityFrameworkCore;
 using System.Net.Security;
 using System.Security.Cryptography.X509Certificates;
