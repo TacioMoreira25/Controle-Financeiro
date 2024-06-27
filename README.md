@@ -1,23 +1,17 @@
-# Finance Control
 
-This project is a financial management tool designed to assist you in effectively managing your personal finances.
+# Controle Financeiro
 
-## Features
+Este projeto é uma ferramenta de gestão financeira desenvolvida para auxiliá-lo a administrar efetivamente suas finanças pessoais.
 
-- **Transaction Management:** Easily add and track your expenses and income.
-- **Financial Reporting:** Gain insights into your financial health with detailed reports.
-- **Expense Analysis:** Identify spending patterns to enhance your financial planning.
+## Recursos
 
-## Getting Started
+* **Gestão de Transações:** Adicione e monitore facilmente suas despesas e receitas.
+* **Relatórios Financeiros:** Obtenha insights sobre sua saúde financeira com relatórios detalhados.
+* **Análise de Gastos:** Identifique padrões de gastos para melhorar seu planejamento financeiro.
 
-1. Clone this repository to your local machine.
-2. Install the necessary dependencies.
-3. Launch the application and begin managing your financial transactions.
+## Primeiros Passos
 
-## Contributions
+1. Clone este repositório para sua máquina local.
+2. Instale as dependências necessárias.
+3. Inicie a aplicação e comece a gerenciar suas transações financeiras.
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
