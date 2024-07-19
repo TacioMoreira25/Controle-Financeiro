@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\morei\\OneDrive\\Documentos\\Dev\\C#\\Finance control\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF1AE422-A378-4D49-BCF5-7ABCA2A0BA8A}|Finance control.csproj|c:\\users\\morei\\onedrive\\documentos\\dev\\c#\\finance control\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FF1AE422-A378-4D49-BCF5-7ABCA2A0BA8A}|Finance control.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FF1AE422-A378-4D49-BCF5-7ABCA2A0BA8A}|Finance control.csproj|c:\\users\\morei\\onedrive\\documentos\\dev\\c#\\finance control\\controllers\\despesacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1AE422-A378-4D49-BCF5-7ABCA2A0BA8A}|Finance control.csproj|solutionrelative:controllers\\despesacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1AE422-A378-4D49-BCF5-7ABCA2A0BA8A}|Finance control.csproj|c:\\users\\morei\\onedrive\\documentos\\dev\\c#\\finance control\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1AE422-A378-4D49-BCF5-7ABCA2A0BA8A}|Finance control.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\morei\\OneDrive\\Documentos\\Dev\\C#\\Finance control\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\morei\\OneDrive\\Documentos\\Dev\\C#\\Finance control\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T23:23:56.872Z",
+              "Title": "DespesaController.cs",
+              "DocumentMoniker": "C:\\Users\\morei\\OneDrive\\Documentos\\Dev\\C#\\Finance control\\Controllers\\DespesaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DespesaController.cs",
+              "ToolTip": "C:\\Users\\morei\\OneDrive\\Documentos\\Dev\\C#\\Finance control\\Controllers\\DespesaController.cs",
+              "RelativeToolTip": "Controllers\\DespesaController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:38:36.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\morei\\OneDrive\\Documentos\\Dev\\C#\\Finance control\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\morei\\OneDrive\\Documentos\\Dev\\C#\\Finance control\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T23:30:19.023Z",
               "EditorCaption": ""
             }
           ]
